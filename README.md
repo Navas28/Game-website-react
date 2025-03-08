@@ -9,27 +9,27 @@ Explore and discover the latest games, trending titles, and gaming news. This Re
 ## 📸 Screenshots
 
 ### Login Page
-![login Page](![react-game-login](https://github.com/user-attachments/assets/f34cd3b2-2f43-4b9d-be30-1495e5db82c2)
+(![react-game-login](https://github.com/user-attachments/assets/f34cd3b2-2f43-4b9d-be30-1495e5db82c2)
 )
 
 ### Signup Page
-![Signup Page](![react-game-signup](https://github.com/user-attachments/assets/0e73ab17-ed67-4c48-b70f-277560bbb1df)
+(![react-game-signup](https://github.com/user-attachments/assets/0e73ab17-ed67-4c48-b70f-277560bbb1df)
 )
 
 ### Games Page
-![Games Page](![react-game-game](https://github.com/user-attachments/assets/9f189c51-e94c-439d-be99-7ffb9eec39b7)
+(![react-game-game](https://github.com/user-attachments/assets/9f189c51-e94c-439d-be99-7ffb9eec39b7)
 )
 
 ### Filter Page
-![Filter Page](![react-game-filter-trending](https://github.com/user-attachments/assets/bf3f67f3-388f-4d41-9749-3d6475a106fb)
+(![react-game-filter-trending](https://github.com/user-attachments/assets/bf3f67f3-388f-4d41-9749-3d6475a106fb)
 )
 
 ### News Page
-![News Page](![react-game-news](https://github.com/user-attachments/assets/606f4156-9b1f-438f-bad1-b60cfb7ebe30)
+(![react-game-news](https://github.com/user-attachments/assets/606f4156-9b1f-438f-bad1-b60cfb7ebe30)
 )
 
 ### About Page
-![About Page](![react-game-about](https://github.com/user-attachments/assets/71567f40-7a0f-47fe-970c-e10e288c489e)
+(![react-game-about](https://github.com/user-attachments/assets/71567f40-7a0f-47fe-970c-e10e288c489e)
 )
 
 ## 📌 Features
