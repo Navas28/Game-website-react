@@ -39,6 +39,10 @@ Explore and discover the latest games, trending titles, and gaming news. This Re
 ### About Page
 ![react-game-about](https://github.com/user-attachments/assets/71567f40-7a0f-47fe-970c-e10e288c489e)
 
+### 🎥 Home Page - Full Version (Video Background)
+![react-game-home](https://github.com/user-attachments/assets/92c80e71-4150-4851-8e75-825dcb4addfd)
+
+
 
 ## 📌 Features
 
