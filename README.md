@@ -2,9 +2,17 @@
 
 Explore and discover the latest games, trending titles, and gaming news. This React project integrates multiple APIs to deliver real-time game details and news with secure login access.
 
-## 🚀 Live Demo
 
-👉 [View Live on Vercel](https://game-website-react.vercel.app/)
+## 🚀 Live Demo Links
+
+1. **Light Version (No Videos, Faster Load)** – Hosted on Vercel  
+   👉 [Visit Light Version](https://game-website-react.vercel.app/)  
+
+2. **Full Version (Includes Videos, Smooth UI)** – Hosted on AWS S3  
+   👉 [Visit Full Version](http://react-game-app.s3-website-us-east-1.amazonaws.com/)  
+   ⚠️ *Note: This version contains high-quality videos, which may take extra time to load.*  
+
+---
 
 ## 📸 Screenshots
 
