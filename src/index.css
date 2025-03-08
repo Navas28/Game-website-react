@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+/* Custom Font Familys */
+
+@theme{
+    --font-primary: "Poppins", "sans-serif";
+    --font-secondary: "Roboto",serif;
+    --font-third: "Monomakh",sans-serif;
+    --color-twitter: #1DA1F2;
+}
