@@ -16,4 +16,3 @@ export default{
     getGameListByGenreId
 }
 
-// game news api =  a84244c9925f5ce08bfdf5e023067604

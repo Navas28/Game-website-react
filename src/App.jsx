@@ -11,15 +11,15 @@ import GameNews from "./Components/GameNews";
 
 const AppContent = () => {
     const location = useLocation();
-    const hideNavRoutes = ["/", "/signup"]; 
+    const hideNavRoutes = ["/", "/login"]; 
 
     return (
         <div>
             {!hideNavRoutes.includes(location.pathname) && <Nav />}
             <Routes>
-                <Route path="/" element={<Login />} />
+                <Route path="/" element={<SignUp />} />
+                <Route path="/login" element={<Login />} />
                 <Route path="/games" element={<Home />} />
-                <Route path="/signup" element={<SignUp />} />
                 <Route path="/about" element={ <About/> } />
                 <Route path="/news" element={ <GameNews/> } />
             </Routes>

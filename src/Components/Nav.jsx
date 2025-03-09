@@ -19,7 +19,7 @@ const Nav = () => {
 
     const onAccept = () => {
         localStorage.removeItem("user");
-        navigate("/signup");
+        navigate("/");
         toast.success("Log Out Successfull", {
             style: {
                 fontSize: "18px",

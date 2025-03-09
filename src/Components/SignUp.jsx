@@ -44,7 +44,7 @@ const SignUp = () => {
                     padding: "10px 20px",
                 },
             });
-            navigate("/");
+            navigate("/login");
         }
     };
 
