@@ -82,7 +82,7 @@ const SignUp = () => {
                         />
                         <p className="text-white mt-5 text-lg ">
                             Already have an account ?{" "}
-                            <Link to="/">
+                            <Link to="/login">
                                 <span className="hover:underline text-lg underline-offset-6 under cursor-pointer font-bold">
                                     Login
                                 </span>
