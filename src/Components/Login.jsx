@@ -101,7 +101,7 @@ const Login = () => {
                             />
                             <p className=" text-white mt-5 text-lg ">
                                 Create an account ?{" "}
-                                <Link to="/signup">
+                                <Link to="/">
                                     <span className="hover:underline text-lg underline-offset-6 under cursor-pointer font-bold">
                                         Sign Up
                                     </span>
