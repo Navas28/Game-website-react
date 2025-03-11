@@ -9,7 +9,7 @@ Explore and discover the latest games, trending titles, and gaming news. This Re
    👉 [Visit Light Version](https://game-website-react.vercel.app/)  
 
 2. **Full Version (Includes Videos, Smooth UI)** – Hosted on AWS S3  
-   👉 [Visit Full Version](http://react-game-app.s3-website-us-east-1.amazonaws.com/)  
+   👉 [Visit Full Version](https://staging.d1hd5ui2h3a3im.amplifyapp.com/)  
    ⚠️ *Note: This version contains high-quality videos, which may take extra time to load.*  
 
 ---
