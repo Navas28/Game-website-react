@@ -56,11 +56,15 @@ Explore and discover the latest games, trending titles, and gaming news. This Re
 
 ✅ **Responsive Design** – Optimized for all devices.
 
-## 🔧 Tech Stack
+## 🔧 Tools and Technologies Used
 
-- **Frontend**: React, Tailwind CSS
+- **Library**: React.
+- **Styling**: Tailwind CSS.
 - **APIs**: 
-   - [RAWG API](https://rawg.io/apidocs) (for game data)
-   - Game News API (for latest gaming news)
-
-
+   - [RAWG API](https://rawg.io/apidocs) (for game data).
+   - Game News API (for latest gaming news).
+- **React Router**: Navigation and routing between pages.
+- **GSAPr**:  For advanced animations and smooth transitions.
+- **Axios**: For making HTTP requests to fetch game data from the API.
+- **React Hot Toast**: For beautiful notifications and alerts.
+- **React Icons**: Provides icons for UI components.
